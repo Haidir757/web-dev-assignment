@@ -1,0 +1,25 @@
+h1 {
+    background-color: red;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+body {
+    background-color: tomato;
+}
+
+p {
+    text-align: center;
+    font-weight: bold;
+}
+
+a:link,
+a:visited,
+a:active {
+    color: black;
+    text-decoration: none;
+    text-align: center;
+}
