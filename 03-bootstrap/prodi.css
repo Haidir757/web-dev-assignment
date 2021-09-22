@@ -1,0 +1,33 @@
+body {
+    background-image: url("FMIPA.jpg");
+    background-size: cover;
+}
+
+.container {
+    background-color: rgb(224, 53, 22);
+    color: white;
+    border: 2px solid black;
+    margin: 100px;
+    padding: 60px;
+    opacity: 95%;
+}
+
+.container.info {
+    background-color: rgb(224, 53, 22);
+    color: white;
+    border: 2px solid black;
+}
+
+h2 {
+    color: rgb(10, 6, 240);
+    text-align: center;
+    text-shadow: 1px 1px 1px #000;
+}
+
+ul li {
+    text-shadow: 2px 2px 2px #000;
+}
+
+p {
+    text-shadow: 2px 2px 2px #000;
+}

@@ -1,0 +1,12 @@
+.heading {
+    background-image: url("bg.jpg");
+    background-blend-mode: darken;
+    color: rgb(98, 0, 255);
+    border: 2px solid black;
+    text-shadow: 2px 2px 2px #000;
+}
+
+.btn-group-horizontal {
+    background-color: darkblue;
+    border-top: 2px solid black;
+}

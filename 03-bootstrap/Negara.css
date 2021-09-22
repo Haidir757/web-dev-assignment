@@ -1,0 +1,16 @@
+body {
+    background-image: url("Hagia.jpg");
+    background-size: cover;
+}
+
+.container {
+    background-image: url("turki.jpg");
+    text-size-adjust: 14;
+    margin: 20px;
+}
+
+p {
+    color: white;
+    font-family: 'Lucida Sans';
+    text-shadow: 2px 2px 2px #000;
+}

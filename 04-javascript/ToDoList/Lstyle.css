@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(215, 255, 255);
+}
+
+.container {
+    background-color: aquamarine;
+    margin: 50px;
+}
+
+label {
+    font-size: 20px;
+}
+
+#item {
+    width: 250px;
+    height: 35px;
+    border-width: 0;
+    border: 1px solid black;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+#btn-add {
+    border: 1px solid black;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.list-style {
+    font-size: 25px;
+    margin: 5px;
+}
+
+.list {
+    margin-top: 20px;
+}
+
+.remove-style {
+    margin-left: 20px;
+    cursor: pointer;
+    font-size: 15px;
+}
